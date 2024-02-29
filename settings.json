@@ -1,0 +1,10 @@
+{
+    "bit_username": "",
+    "bit_token": "",
+    "bit_organization": "",
+    "bit_url": "https://api.bitbucket.org/2.0",
+
+    "github_token": "",
+    "github_organization": "",
+    "github_url": "https://api.github.com"
+}
