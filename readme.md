@@ -5,7 +5,7 @@ This repo is a Python script that migrates a Bitbucket organization's repos to a
 ## Dependencies
 
 ```bash
-pip install GitPython==3.1.42 PyGithub==2.2.0
+pip install PyGithub==2.2.0
 ```
 
 ## Usage
